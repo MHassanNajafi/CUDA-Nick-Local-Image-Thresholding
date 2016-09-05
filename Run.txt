@@ -1,0 +1,1 @@
+./Nick Images/image1_size.txt Images/image1.in Images/output1_CUDA.txt
